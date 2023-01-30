@@ -1,6 +1,7 @@
 ## RENT THE RUNWAY - CAMPUS EDITION
 
-Project: Mobile application to facilitate campus-wide clothing, apartment, object renting.
+**Project:**
+Mobile application to facilitate campus-wide clothing, apartment, object renting.
 
 **Strengths:** 
 Campus community as target users ensures constraints of user age range - almost guaranteed majority similarity in trend preferences and interests in similar activites. Same day rental - delivery is handled by proximity to campus whereas online nationwide rentals (rent the runway) requires processing and shipping time to be accounted for (our age range likes and will prefer faster access). Users (students) are encouraged to rent out their items to justify cost of purchasing ROI for an item they want. Users (students) are encourage to also search for the item they want on this platform if they are unsure about committing the financial cost of fully owning an item they like if they know they will not be using it everyday. 
