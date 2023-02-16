@@ -4,7 +4,7 @@ title:  "Week 3 Updates"
 date:  2023-02-12 12:05:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2023-02-12-Week-3-Updates/image.JPG
+image: /assets/article_images/2023-02-12-Week-3-Updates/image.jpg
 ---
 # Research Takeaways: 
 ### Shop Pickle; peer-to-peer clothing rental marketplace
